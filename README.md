@@ -1,6 +1,11 @@
 # Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems
 
 This repo provides the Pytorch codes for RCE-KD.
+Our press release is available at: [URL here](https://mp.weixin.qq.com/s?__biz=MzA4NTUxNTE4Ng==&mid=2247528245&idx=1&sn=52b73e73be15f9e208b4c69070b4782f&chksm=9e6a7b56a2c8cccbd8e4edccd116407b438a12f6d84a7807bb18ab9b7eed684107c2532badfe&mpshare=1&scene=1&srcid=0508shTWUuhKlcbAjkkF2uuF&sharer_shareinfo=c0781067e418042c11e73bf3af11f300&sharer_shareinfo_first=c0781067e418042c11e73bf3af11f300#rd)
+
+
+
+
 
 ## 📝 Abstract
 
